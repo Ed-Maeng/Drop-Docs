@@ -3,7 +3,7 @@
 ## Languages & Frameworks
 - Flutter, Node.js, Express.js, MongoDB, npm
 
-### For running website
+## For running website
 1. Run server by 'npm start dev'
 2. Open website by running 'flutter run -d chrome --web-port 3000'
 
@@ -17,3 +17,5 @@
 
 ## Collabroative Editing & Auto-Saving
 - Sockets: https://pub.dev/packages/socket_io_client
+
+![Screen Shot 2022-11-14 at 10 38 44 PM](https://user-images.githubusercontent.com/54085719/201845950-2fd923ef-6a7f-4e30-b087-be8430ebe8cc.png)
