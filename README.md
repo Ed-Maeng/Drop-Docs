@@ -1,4 +1,7 @@
-# Google Docs (using Flutter, Node.js, Express.js, MongoDB, npm)
+# Google Docs
+
+## Languages & Frameworks
+- Flutter, Node.js, Express.js, MongoDB, npm
 
 ### For running website
 1. Run server by 'npm start dev'
